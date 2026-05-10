@@ -52,7 +52,7 @@ yt-dlp: https://www.youtube.com/watch?v=6qFeURAfItU
 ### مراحل سریع:
 1. یه فایل رو باز کن (مثلاً `README.md`) و با زدن دکمه ادیت (✏️) برو به حالت ویرایش
 2. یه تغییر کوچیک بده (مثلاً یه نقطه به آخر فایل اضافه کن)
-3. روی **Commit changes...** کلیک کن
+3. روی **nnnnnnCommit changes...** کلیک کن
 4. تو پیام کامیت لینک رو با `yt-dlp:` بنویس
 5. **Commit changes** بزن
 
